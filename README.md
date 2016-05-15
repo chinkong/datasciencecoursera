@@ -10,12 +10,12 @@ R package required:
 
 Steps:
 1. Read all 6 files into respective variables:
-a. subject train
-b. subject test
-c. activity train
-d. activity test
-e. data train
-f. data test
+* subject train
+* subject test
+* activity train
+* activity test
+* data train
+* data test
 
 2. Merge all data into "allData" by row binding 
 3. Set the column to appropriate readable names by referring to the features.txt file
